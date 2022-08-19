@@ -1,0 +1,25 @@
+.fas{
+    margin-bottom: 30px;
+    color: gray;
+}
+
+ul{
+    list-style: none;
+}
+
+.fa-square-xmark{
+    color: red;
+}
+
+.fa-square-check{
+    color: green;
+}
+
+li{
+    display: -webkit-box;
+}
+
+p{
+    margin-bottom: 0;
+    margin-left: 10px;
+}
